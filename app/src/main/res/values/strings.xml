@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Campsite Commander</string>
+    <string name="splash_title">Campsite Commander</string>
+    <string name="splash_subtitle">Outdoor Adventure Inventory</string>
+    <string name="total_items_packed">Total Items Packed</string>
+    <string name="add_gear">Add Gear</string>
+    <string name="view_detailed_checklist">View Detailed Checklist</string>
+    <string name="back_to_base">Back to Base</string>
+    <string name="detailed_checklist">Detailed Checklist</string>
+    <string name="add_new_gear">Add New Gear</string>
+    <string name="item_name_hint">Item Name</string>
+    <string name="category_hint">Category</string>
+    <string name="quantity_hint">Quantity / Notes</string>
+    <string name="add_item">Add Item</string>
+    <string name="empty_field_warning">Please fill in all fields!</string>
+    <string name="item_added">Item added successfully!</string>
+</resources>
